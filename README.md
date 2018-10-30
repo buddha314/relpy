@@ -16,3 +16,9 @@ The intial task is to play a variant of "tag".  The robots will be in a small ar
 1. They can defend against a certain direction to reduce the damage from a hit.
 
 I want to teach them using some variants of Reinforcement Learning.  In this repo I have a couple of notebooks where I noodle out one piece at a time.
+
+## Inspiring Videos
+
+1. An autonomous RP bot [here](https://www.youtube.com/watch?v=t3eUSr4ZOLs). Awesome, we could print our own chassis.
+1. Looks like [this guy](https://www.youtube.com/watch?v=hz8HlFabSWo) is using one ultra sonic to map before moving forward.  Good idea! I think I would go with multiple sensors, though.
+1. Here is the end of a [tutorial](https://www.youtube.com/watch?v=vT4cTCI60ek) about building an autonomous bot.
